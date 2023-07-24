@@ -34,13 +34,6 @@ and HybridAugment++ are implemented in a few lines of code, does not require ext
 :pushpin: *HybridAugment* and *HybridAugment++* are easy to implement, do not require extra data, ensemble models or complicated augmentation regimes based on external networks.
 
 
-
-## Citation
-:pushpin: If you find our code or paper useful in your research, please consider citing our paper.
-```bibtex
-ToDo
-```
-
 ## Installation
 :pushpin: See ```environment.yml``` file for an exported conda environment. Note that there might be unnecessary dependencies there, so the download might take a while.
 
@@ -123,6 +116,19 @@ python eval.py --model  path/to/model.pth  --data_dir ../data/cifar10/ --log_pat
 
 
 :exclamation: PS indicates paired-single combined variant. † indicates training with a higher cut-off frequency. DA is [DeepAugment](https://github.com/hendrycks/imagenet-r/tree/master/DeepAugment), AM is [AugMix](https://github.com/google-research/augmix).
+
+
+
+## Citation
+:pushpin: If you find our code or paper useful in your research, please consider citing our paper.
+```bibtex
+@inproceedings{yucel2023hybridaugment,
+  title={HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness},
+  author={Yucel, Mehmet Kerim and Cinbis, Ramazan Gokberk and Duygulu, Pinar},
+  booktitle = {International Conference on Computer Vision (ICCV)}
+  year={2023},
+}
+```
 
 
 ## Acknowledgements
