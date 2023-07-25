@@ -1,6 +1,6 @@
 # HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness (ICCV'23)
 
-This repository contains the PyTorch implementation of our paper "HybridAugment++: Unified Frequency Perturbations for Model Robustness" accepted to [ICCV 2023](https://iccv2023.thecvf.com/) .
+This repository contains the PyTorch implementation of our paper ["HybridAugment++: Unified Frequency Perturbations for Model Robustness"](https://arxiv.org/abs/2307.11823) accepted to [ICCV 2023](https://iccv2023.thecvf.com/) .
 
 
 ## Paper Abstract
