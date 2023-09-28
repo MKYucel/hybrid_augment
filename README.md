@@ -2,6 +2,12 @@
 
 This repository contains the PyTorch implementation of our paper ["HybridAugment++: Unified Frequency Perturbations for Model Robustness"](https://arxiv.org/abs/2307.11823) accepted to [ICCV 2023](https://iccv2023.thecvf.com/) .
 
+# Video
+
+[<img src="https://github.com/MKYucel/hybrid_augment/assets/20682154/f684dce7-c1f8-4158-9c4a-cd79d949d0e3" width="50%">](https://www.youtube.com/watch?v=a58XDKeK5d8&ab_channel=MehmetKerimYucel)
+
+
+
 
 ## Paper Abstract
 *Convolutional Neural Networks (CNN) are known to exhibit poor generalization performance under distribution shifts. Their generalization have been studied extensively, and one line of work approaches the problem from a frequency-centric perspective. These studies highlight the fact that humans and CNNs might focus on different frequency components of an image. First, inspired by these observations, we propose a simple yet effective data
