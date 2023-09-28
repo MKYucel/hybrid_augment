@@ -1,12 +1,8 @@
 # HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness (ICCV'23)
 
-This repository contains the PyTorch implementation of our paper ["HybridAugment++: Unified Frequency Perturbations for Model Robustness"](https://arxiv.org/abs/2307.11823) accepted to [ICCV 2023](https://iccv2023.thecvf.com/) .
+## [arXiv](https://arxiv.org/abs/2307.11823) | [Video](https://www.youtube.com/watch?v=a58XDKeK5d8&t=4s&ab_channel=MehmetKerimYucel) | [Poster](https://github.com/MKYucel/hybrid_augment/files/12747278/iccv_poster.pdf)
 
-# Video
-
-[<img src="https://github.com/MKYucel/hybrid_augment/assets/20682154/f684dce7-c1f8-4158-9c4a-cd79d949d0e3" width="50%">](https://www.youtube.com/watch?v=a58XDKeK5d8&ab_channel=MehmetKerimYucel)
-
-
+This repository contains the PyTorch implementation of our paper "HybridAugment++: Unified Frequency Perturbations for Model Robustness" accepted to [ICCV 2023](https://iccv2023.thecvf.com/) .
 
 
 ## Paper Abstract
